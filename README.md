@@ -1,4 +1,4 @@
-# Front-end Practicum Testing Homework
+# Patika.dev Front-end Practicum Testing Homework
 
 I have done this homework during Front-end Practicum
 
